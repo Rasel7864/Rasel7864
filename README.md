@@ -1,7 +1,14 @@
-#Hi There
+# Hi there 👋,
+### I'm Rasel Rana
+![I'm Rasel Rana](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-- 👋 Hi, I’m Rasel Rana
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am a front-end web developer.
+I created this git to upload my project.  
+
+Skills: HTML / CSS / Tailwind CSS/Bootstrap/ JS 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
